@@ -7,6 +7,7 @@
 // --------
 // includes
 // --------
+// dummy commant to fool git
 
 #include <cassert>  // assert
 #include <iostream> // endl, istream, ostream
